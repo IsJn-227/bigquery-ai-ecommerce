@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+data/customers.csv
+data/products.csv
+data/transactions.csv
+data/reviews.csv
+outputs/
+.env
